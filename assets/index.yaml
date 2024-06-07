@@ -7,17 +7,17 @@ entries:
       catalog.cattle.io/namespace: cattle-ui-plugin-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux, windows
-      catalog.cattle.io/rancher-version: '>= v2.8.4'
+      catalog.cattle.io/rancher-version: '>= v2.7.0'
       catalog.cattle.io/scope: management
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-07T06:41:57.864786096Z"
+    created: "2024-06-07T09:26:44.931654734Z"
     description: kubearmor plugin
-    digest: ff0fd7c4f5317fa8f70bcbe57637936b28453353addcdc68520a7e2c8681d524
+    digest: 55c92d46a959802ec5f9a17286b7e7fe4ad104f868385987a5031f05e10e0107
     name: kubearmor
     type: application
     urls:
     - assets/kubearmor/kubearmor-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-07T06:41:57.864104584Z"
+generated: "2024-06-07T09:26:44.931298969Z"
