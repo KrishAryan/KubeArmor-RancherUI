@@ -1,0 +1,3 @@
+plugin/kubearmor-0.1.0.umd.min.js
+plugin/kubearmor-0.1.0.umd.min.js.map
+plugin/package.json
