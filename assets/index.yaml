@@ -12,12 +12,12 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-07T09:26:44.931654734Z"
+    created: "2024-06-25T09:57:56.999549999Z"
     description: kubearmor plugin
-    digest: 55c92d46a959802ec5f9a17286b7e7fe4ad104f868385987a5031f05e10e0107
+    digest: 21a84efecabcaf0a1c2b53fc70f6899228f8bc1506329deb3aab6d9cdd7402d2
     name: kubearmor
     type: application
     urls:
     - assets/kubearmor/kubearmor-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-07T09:26:44.931298969Z"
+generated: "2024-06-25T09:57:56.998931224Z"
